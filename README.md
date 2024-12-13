@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Highly experienced .NET senior developer with over 10 years of experience in designing, developing, and deploying large-scale enterprise applications. Proven track record of successfully leading cross-functional teams and delivering projects on time and within budget. Proficient in C#, ASP.NET, .NET Core, Azure, and SQL Server.
 <!--
 **midnight-super/midnight-super** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
